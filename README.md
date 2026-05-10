@@ -34,7 +34,7 @@
 
 ### about
 
-CS undergrad at JIIT Noida building end-to-end systems — ML pipelines, AI game engines, full-stack web, and database backends. I care about writing code clean enough to hand to someone and have them understand it.
+CS undergrad at JIIT Noida building end-to-end systems — ML pipelines, full-stack web, and database backends. I care about writing code clean enough to hand to someone and have them understand it.
 
 - 🏛️ **IEEE SRF 2026** — Abstract on Cryptography selected for poster presentation at IEEE SB JIIT's inaugural research conference
 - 🎓 **Mentor @ IEEE TechBlocks** — Selected through competitive interview; taught CSS & Tailwind to **92+ first-year students**
