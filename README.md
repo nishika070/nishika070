@@ -83,8 +83,6 @@ CS undergrad at JIIT Noida building end-to-end systems — ML pipelines, full-st
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ---
-c="https://github-readme-stats.vercel.app/api/top-langs/?username=nishika070&layout=compact&theme=rose_pine&hide_border=true&title_color=b5541e" height="150"/>
-</div>
 
 ---
 
