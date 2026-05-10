@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=b5541e&height=120&section=header&fontColor=faf8f5" width="100%"/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=32&pause=1000&color=b5541e&center=true&vCenter=true&width=500&lines=hey%2C+I'm+Nishika+%F0%9F%91%8B;CS+Engineer+%26+ML+Developer;Building+things+that+work." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=32&pause=1000&color=b5541e&center=true&vCenter=true&width=500&lines=hey%2C+I'm+Nishika+%F0%9F%91%8B;Computer+Science+%26+And+Engineering;Building+things+that+work." alt="Typing SVG"/>
 </h1>
 
 <p>
