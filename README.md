@@ -36,8 +36,8 @@
 
 CS undergrad at JIIT Noida building end-to-end systems — ML pipelines, full-stack web, and database backends. I care about writing code clean enough to hand to someone and have them understand it.
 
-- 🏛️ **IEEE SRF 2026** — Abstract on Cryptography selected for poster presentation at IEEE SB JIIT's inaugural research conference
-- 🎓 **Mentor @ IEEE TechBlocks** — Selected through competitive interview; taught CSS & Tailwind to **92+ first-year students**
+- 🏛️ **IEEE SBJIIT 2026** — Abstract on Cryptography selected for poster presentation at IEEE SB JIIT's inaugural research conference
+- 🎓 **Mentor @ IEEE SBJIIT TechBlocks** — Selected through competitive interview; taught CSS & Tailwind to **92+ first-year students**
 - 📊 **96.2% in PCM** &nbsp;·&nbsp; CGPA **8.1/10** at JIIT Noida
 
 ---
@@ -83,13 +83,7 @@ CS undergrad at JIIT Noida building end-to-end systems — ML pipelines, full-st
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ---
-
-### github stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishika070&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&title_color=b5541e&icon_color=b5541e" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishika070&layout=compact&theme=rose_pine&hide_border=true&title_color=b5541e" height="150"/>
+c="https://github-readme-stats.vercel.app/api/top-langs/?username=nishika070&layout=compact&theme=rose_pine&hide_border=true&title_color=b5541e" height="150"/>
 </div>
 
 ---
